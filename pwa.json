@@ -21,6 +21,6 @@
   "name": "Studdy Buddy",
   "scope": "./",
   "short_name": "SB",
-  "start_url": "./huizen.html",
+  "start_url": "./index.html",
   "theme_color": "#000000"
 }
