@@ -2,6 +2,7 @@
   "background_color": "#000000",
   "description": "Studdy Buddy",
   "display": "fullscreen",
+  "orientation": "portrait",
   "icons": [
     {
       "sizes": "180x180",
@@ -20,7 +21,7 @@
   "id": "/",
   "name": "Studdy Buddy",
   "scope": "./",
-  "short_name": "SB",
+  "short_name": "Piraat",
   "start_url": "./index.html",
   "theme_color": "#000000"
 }
