@@ -21,6 +21,6 @@
   "name": "Studdy Buddy",
   "scope": "./",
   "short_name": "Familie",
-  "start_url": "./index.html",
+  "start_url": "./familie.html",
   "theme_color": "#000000"
 }
