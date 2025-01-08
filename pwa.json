@@ -21,6 +21,6 @@
   "name": "Studdy Buddy",
   "scope": "./",
   "short_name": "LichtEnDonker",
-  "start_url": "./ld.html",
+  "start_url": "./ld2.html",
   "theme_color": "#000000"
 }
