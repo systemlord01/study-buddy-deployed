@@ -6,7 +6,7 @@ const FILES_TO_CACHE = [
     './',
     './favicon.ico',
     './img/favicon-512.png',
-    './ld2.html',
+    './dokter.html',
     './pwa.json',
 ];
 

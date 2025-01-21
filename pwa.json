@@ -1,6 +1,6 @@
 {
   "background_color": "#000000",
-  "description": "Studdy Buddy",
+  "description": "dokter",
   "display": "fullscreen",
   "icons": [
     {
@@ -18,9 +18,9 @@
     }
   ],
   "id": "/",
-  "name": "Studdy Buddy",
+  "name": "dokter",
   "scope": "./",
-  "short_name": "LichtEnDonker",
-  "start_url": "./ld2.html",
+  "short_name": "dokter",
+  "start_url": "./dokter.html",
   "theme_color": "#000000"
 }
