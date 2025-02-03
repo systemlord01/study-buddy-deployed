@@ -18,9 +18,9 @@
     }
   ],
   "id": "/",
-  "name": "dokter",
+  "name": "julian",
   "scope": "./",
-  "short_name": "dokter",
-  "start_url": "./dokter.html",
+  "short_name": "julian",
+  "start_url": "./julian.html",
   "theme_color": "#000000"
 }
