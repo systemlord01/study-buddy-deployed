@@ -18,9 +18,9 @@
     }
   ],
   "id": "/",
-  "name": "julian",
+  "name": "circus",
   "scope": "./",
-  "short_name": "julian",
-  "start_url": "./julian.html",
+  "short_name": "circus",
+  "start_url": "./circus.html",
   "theme_color": "#000000"
 }
