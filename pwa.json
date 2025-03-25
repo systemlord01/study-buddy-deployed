@@ -18,9 +18,9 @@
     }
   ],
   "id": "/",
-  "name": "circus",
+  "name": "kip",
   "scope": "./",
-  "short_name": "circus",
-  "start_url": "./circus.html",
+  "short_name": "kip",
+  "start_url": "./study-buddykip.html",
   "theme_color": "#000000"
 }
