@@ -1,6 +1,6 @@
 {
   "background_color": "#000000",
-  "description": "dokter",
+  "description": "lente",
   "display": "fullscreen",
   "icons": [
     {
@@ -18,9 +18,9 @@
     }
   ],
   "id": "/",
-  "name": "kip",
+  "name": "lente",
   "scope": "./",
-  "short_name": "kip",
-  "start_url": "./study-buddykip.html",
+  "short_name": "lente",
+  "start_url": "./lente.html",
   "theme_color": "#000000"
 }
