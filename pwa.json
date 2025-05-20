@@ -18,9 +18,9 @@
     }
   ],
   "id": "/",
-  "name": "lente",
+  "name": "kleurenmonster",
   "scope": "./",
-  "short_name": "lente",
-  "start_url": "./lente.html",
+  "short_name": "kleurenmonster",
+  "start_url": "./kleurenmonster.html",
   "theme_color": "#000000"
 }
